@@ -489,7 +489,14 @@ ul {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+.bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+.h-430 {
+    height: 430px;
+}
 .webscope-text {
     color: white;
     font-size: 12px;
