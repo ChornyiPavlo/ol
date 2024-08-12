@@ -344,7 +344,7 @@ ul {
 }
 
 .plan-cost::before {
-    content: "$";
+    content: "₸";
 }
 
 .monthly {
